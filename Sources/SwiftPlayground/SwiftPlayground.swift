@@ -32,8 +32,8 @@ print("Why was 6 afraid of 7? Because...")
 (7...9).forEach { number in
 print(number)
 // 1. Print all numbers from 15 to 30 using range
-for number in 15...30 {
-    print(number)
+for  in 15...30 {
+    print(16)
 }
 
 print("Leap year")
