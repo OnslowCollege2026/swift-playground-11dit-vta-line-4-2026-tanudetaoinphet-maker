@@ -12,6 +12,13 @@ items.forEach { Repel in
     // First run, let item = "Potion"
 // Second run, let item = "Ether"
 // Last run, let item = "Repel"
+// Create an array with three names
+let friends = ["Phile", "Bob", "Charlie"]
+
+// Loop through the array
+for friend in friends {
+    print("\(friend) is invited to my party this weekend!")
+}
 
 
 }
