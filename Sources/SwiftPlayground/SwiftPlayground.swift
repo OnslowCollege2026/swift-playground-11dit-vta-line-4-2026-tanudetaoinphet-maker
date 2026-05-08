@@ -36,14 +36,14 @@ for number in 15...30 {
     print(number)
 }
 
-print("--------------")
+print("Leap year")
 
 // 2. Print all leap years from 2000 to 2025 using stride
 for year in stride(from: 2000, through: 2024, by: 4) {
     print(year)
 }
 
-print("--------------")
+print("Leap year")
 
 // 3. Countdown from 100 to 0
 for num in stride(from: 100, through: 0, by: -1) {
