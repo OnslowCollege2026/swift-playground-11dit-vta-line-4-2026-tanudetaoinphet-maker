@@ -18,6 +18,24 @@ let friends = ["Jordan", "Bob", "Charlie"]
 // Loop through the array
 for friend in friends {
     print("\(friend) is invited to my party this weekend!")
+(1...5).forEach { number in
+   print(number * 2)
+}
+
+// 2
+// 4
+// 6
+// 8
+// 10
+print("Why was 6 afraid of 7? Because...")
+
+(7...9).forEach { number in
+print(number)
+}
+
+
+
+
 }
 
 
