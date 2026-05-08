@@ -51,19 +51,18 @@ for num in stride(from: 100, through: 0, by: -1) {
     if num % 3 != 0 {
         print("Remainder for \(num) is \(num % 3)")
     } else {
-        print("No remainder for \(num)")
+        print("No remainder for \(num)"   
+
+
+
+
+
+
     }
-}
-}
-
-
-
-
-}
-
 
 }
         
         
             }
 
+}
