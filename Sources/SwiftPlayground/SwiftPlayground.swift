@@ -13,7 +13,7 @@ items.forEach { Repel in
 // Second run, let item = "Ether"
 // Last run, let item = "Repel"
 // Create an array with three names
-let friends = ["Phile", "Bob", "Charlie"]
+let friends = ["Jordan", "Bob", "Charlie"]
 
 // Loop through the array
 for friend in friends {
