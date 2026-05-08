@@ -5,6 +5,11 @@
 struct SwiftPlayground {
     static func main() {
         print("Hello, world!")
+let items = ["Potion", "Ether", "Repel"]
+
+items.forEach { item in
+    print(item)
+}
         
         
             }
