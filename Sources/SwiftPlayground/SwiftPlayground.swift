@@ -7,8 +7,12 @@ struct SwiftPlayground {
         print("Hello, world!")
 let items = ["Potion", "Ether", "Repel"]
 
-items.forEach { item in
-    print(item)
+items.forEach { Repel in
+    print(Repel)
+    // First run, let item = "Potion"
+// Second run, let item = "Ether"
+// Last run, let item = "Repel"
+
 }
         
         
